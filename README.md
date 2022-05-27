@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project that I was assigned to do by the odin project. I learned basic html by creating a recipe website. I created headings, paragraphs, lists, images, and links.
