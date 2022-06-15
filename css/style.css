@@ -1,5 +1,17 @@
 body {
-    background-color: purple;
+    background-color: yellow;
     font-family: "Times New Roman";
-    text-align: right;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.list {
+    display: block;
+    margin-right: 575px;
+    margin-left: 640px;
+
+    
 }
